@@ -1,6 +1,8 @@
 # San Francisco Housing Rental Market Data Analysis
 
-This Jupyter lab notebook provides an analysis of the housing rental market data for San Francisco for the time period of 2010 to 2016.  Specifically, it provides:
+This Jupyter lab notebook provides an analysis of the housing rental market data for San Francisco for the time period of 2010 to 2016.
+
+Specifically, it provides:
 * An interactive plot of the number housing units per year in San Francisco.
 * An interactive plot showing average sale price per square foot and average gross rent for the San Francisco area.
 * An interactive plot breaking down the average sale price per square foot and average gross rent on a per-neighborhood basis.
@@ -38,7 +40,9 @@ Open the notebook in Jupyter lab and you can rerun the analysis.
 ## Examples
 
 Here are examples of the type of interactive plots in this notebook:
+
 ![sale price sqr foot and rent](Images/sf_sale_price_sqr_foot_and_rent.png)
+
 ![neighborhood map](Images/sf_interactive_neighborhood_map.png)
 
 ---
